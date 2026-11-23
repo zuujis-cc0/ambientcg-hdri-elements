@@ -1,5 +1,10 @@
 {
- "assets": {},
+ "assets": {
+  "HDRIElement001": "b921395fce4b19109abf90c88dceef5e3d2c2af7",
+  "HDRIElement002": "a6daaec62d7dd8213baad94e823485bb8c834f66",
+  "HDRIElement003": "e7c9ca684bc7302b3770a74b195ef146345677f9",
+  "HDRIElement004": "b9ee4849d5bac4f3672e982f4715b784013ea51f"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
